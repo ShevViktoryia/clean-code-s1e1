@@ -12,3 +12,5 @@
 - The appearance of the application has not been changed.
 - Alternate text is present for all necessary images.
 - The delete button animation works.
+
+https://shevviktoryia.github.io/clean-code-s1e1
